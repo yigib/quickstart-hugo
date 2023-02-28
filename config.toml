@@ -1,0 +1,4 @@
+baseURL = 'https://altinay.xyz'
+languageCode = 'tr-TR'
+title = 'Blog Olur Gibi'
+theme = 'ananke'
